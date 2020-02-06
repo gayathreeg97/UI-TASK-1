@@ -1,0 +1,250 @@
+
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,
+figure {
+    border: 0;
+    display: block;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+th,
+var,
+ins {
+    font-style: normal;
+    font-weight: normal;
+}
+
+small,
+span,
+em {
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+textarea {
+    resize: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.clear {
+    clear: both;
+    font-size: 1px;
+    line-height: 1px;
+    display: block;
+    height: 0;
+}
+
+.mar-rgt-space {
+    margin: 0 !important;
+}
+
+.mar-bot-20 {
+    margin-bottom: 20px;
+}
+
+.mar-top-40 {
+    margin-top: 40px;
+}
+
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+
+.pad-rgt-space {
+    padding: 0 !important;
+}
+
+.no-bag {
+    background: none !important;
+}
+
+.no-bor {
+    border: none !important;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.clr-org {
+    color: #f15932;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+
+/**************************************************************************************/
+
+a {
+    color: #000;
+    text-decoration: none;
+    outline: 0 none;
+    transition: all ease-in-out 0.4s;
+    -moz-transition: all ease-in-out 0.4s;
+    -ms-transition: all ease-in-out 0.4s;
+    -o-transition: all ease-in-out 0.4s;
+    -webkit-transition: all ease-in-out 0.4s;
+    display: inline-block;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+body{
+    overflow-x: hidden;
+}
+.Register{
+    margin-right: 58px;
+}
+.hr-border{
+    margin-left: 11px;
+    margin-right: 11px;
+}
+
+
+.risk_img{
+    width: 71px;
+    
+
+}
+.vr {
+    border-right: 1px solid gray;
+    height: 100px;
+    text-align: center;
+  }
+  .img_middle{
+    text-align: center;
+  }
+  .para{
+    /* padding-left: 75px; */
+    padding-top: 84px;
+  }
+  
+  .paragraph{
+   
+    font-style: italic;
+    font-weight: 500;
+    /* font-size: small; */
+  }
+  .com_img{
+    width: 100%;
+    height: AUTO;
+  }
+  .com_img1{
+    padding-left: 158px;
+  }
+  .com_img2{
+    padding-left: 61px;
+  }
+  .back_clr{
+      background-color: #f5f5f5;
+  }
+  .free_btn{
+  padding-top: 61px;
+}
+.FAQ{
+    padding-top: 19px;
+    font-weight: 500;
+    font-size: large;
+}
+.footer_img{
+    padding-top: 28px;
+    width: 209px;
+}
+.icons{
+    padding-left: 30px;
+    color:white
+
+}
+.icons1{
+    padding-left: 30px;
+    color:white
+
+}
+.bg_footer{
+    background-color: black;
+}
+.icons::after {
+    content: "|";
+    
+    padding-left: 23px;
+  }
